@@ -51,7 +51,7 @@ function Area(props){
         )
       }) }
 
-      <h1>{props.why[click]}</h1>
+      <h1> here {props.why[click]}</h1>
     </div>
   )
 }
